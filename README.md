@@ -26,22 +26,6 @@ The application follows a simplified, developer-friendly architecture:
 - **Lightweight Backend**: Powered by Flask and SQLite for zero-config setup.
 - **Modern UI**: Dark-themed, mobile-responsive glassmorphism design.
 
-## 🚀 Quick Start
-
-1. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Configuration**:
-   Open `config.py` and add your [Gemini API Key](https://aistudio.google.com/) and [GitHub API Token](https://github.com/settings/tokens) (optional but recommended for higher rate limits).
-
-3. **Run the App**:
-   ```bash
-   python app.py
-   ```
-   The application will be available at `http://localhost:5000`.
-
 ## 📂 Project Structure
 
 - `app.py`: Application entry point and factory.

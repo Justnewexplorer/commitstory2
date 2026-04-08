@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and Logs
+data/*.db
+data/*.db-shm
+data/*.db-wal
+temp/
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
